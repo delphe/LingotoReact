@@ -1,3 +1,8 @@
+node_modules/**/*
+.expo/*
+npm-debug.*
+*.p12
+*.mobileprovision
 
 # Created by https://www.gitignore.io/api/windows,reactnative,visualstudiocode
 # Edit at https://www.gitignore.io/?templates=windows,reactnative,visualstudiocode
